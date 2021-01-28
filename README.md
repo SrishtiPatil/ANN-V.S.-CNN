@@ -22,7 +22,6 @@ The most common Image classification techniques are using Convolutional Neural N
 •	ANN are built like the human brain with neuron nodes interconnected with each other. ANN are implemented as a system of interconnected processing elements called nodes. The connections between different nodes have a numerical value called weights and by altering these values in a systematic way the network is eventually able to do the desired function. The hidden layers can be thought as feature detectors, for example if the network is given a task to recognize a car, the first hidden layer might act as a line detector, the second hidden layer takes lines as input and puts them together to form a tyre, then in the third layer it forms the structure. This hierarchy enables the network to eventually recognize very complex objects as well.
 
 # Results
-Train_Accuracy   Test_Accuracy
 CNN(Train_Accuracy) - 89.07
 CNN(Test_Accuracy) - 85.51
 ANN(Train_Accuracy) - 75.8
