@@ -26,3 +26,7 @@ CNN(Train_Accuracy) - 89.07,
 CNN(Test_Accuracy) - 85.51,
 ANN(Train_Accuracy) - 75.8,
 ANN(Test_Accuracy) - 73.11.
+
+
+# Note
+Sometime GitHub fails to load python notebooks(ipynb). Uploading alien_vs_predators.py as backup
