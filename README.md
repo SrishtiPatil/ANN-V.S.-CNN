@@ -3,7 +3,7 @@
 # Objective
 The objective of this project is to compare the performance of basic models of ANN and CNN with the bare minimum of image preprocessing on the Alien vs Predator dataset
 
-# Data:
+# Data
 Alien and Predator images (JPG, various), for transfer learning. Split into Keras folder structure.
 •	Format: JPG images, various thumbnail sizes (around 250 x 250 px).
 •	The train file contains of two classes that is aliens and predators containing 247 images each.
@@ -14,7 +14,7 @@ Data link : https://www.kaggle.com/pmigdal/alien-vs-predator-images
 # Image Pre-processing
 Image pre-processing enhances some image features important for further processing. The steps of Image pre-processing used in this project are reading the Image, resizing the image, rescaling the image.
 
-# Image Classification Techniques:
+# Image Classification Techniques
 The most common Image classification techniques are using Convolutional Neural Networks and Artificial Neural Network. 
 
 •	CNN’s are regularized versions of multilayer perceptrons. CNN uses relatively little pre-processing compared to other image classification algorithms. CNN has two layers viz convolutional layers and pooling layers. In a CNN, the input is a tensor with shape (number of images) x (image height) x (image width) x (input channels(RGB, Grayscale etc). Convolutional networks may contain pooling layers to reduce the dimensions of the data by combining the output of neurons to a single neuron in the next layer. Max pooling uses the max value of each cluster of neurons at the prior layer.
