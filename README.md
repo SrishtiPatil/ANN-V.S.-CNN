@@ -25,4 +25,4 @@ The most common Image classification techniques are using Convolutional Neural N
 CNN(Train_Accuracy) - 89.07,
 CNN(Test_Accuracy) - 85.51,
 ANN(Train_Accuracy) - 75.8,
-ANN(Test_Accuracy) - 73.11
+ANN(Test_Accuracy) - 73.11.
